@@ -2,6 +2,7 @@
 
 hosted on:
 https://sweetshop-frontend-git-main-deekshiths-projects-eaba341b.vercel.app/
+
 https://sweetshop-frontend-21ugclsab-deekshiths-projects-eaba341b.vercel.app/
 
 A **Spring Boot 3.x** application providing a REST API for managing a sweet shop.  
