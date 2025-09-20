@@ -1,9 +1,7 @@
 # 🍬 Sweet Shop Management System (Backend)
 
 hosted on:
-https://sweetshop-frontend-git-main-deekshiths-projects-eaba341b.vercel.app/
-
-https://sweetshop-frontend-21ugclsab-deekshiths-projects-eaba341b.vercel.app/
+https://sweetshop-frontend-pink.vercel.app/
 
 A **Spring Boot 3.x** application providing a REST API for managing a sweet shop.  
 It supports **user authentication (JWT)**, **CRUD for sweets**, and **inventory operations** like purchase & restock.
