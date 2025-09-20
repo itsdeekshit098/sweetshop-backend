@@ -20,7 +20,9 @@ public class CorsConfig {
         config.setAllowedOrigins(List.of(
                 "http://localhost:3000",
                 "https://sweetshop-frontend-pink.vercel.app",
-                "https://sweetshop-frontend-deekshiths-projects-eaba341b.vercel.app"
+                "https://sweetshop-frontend-deekshiths-projects-eaba341b.vercel.app",
+                "https://sweetshop-frontend-git-main-deekshiths-projects-eaba341b.vercel.app/",
+                "https://sweetshop-frontend-f249kmot5-deekshiths-projects-eaba341b.vercel.app/"
         ));
 
         config.setAllowedMethods(List.of("GET", "POST", "PUT", "DELETE", "OPTIONS"));
