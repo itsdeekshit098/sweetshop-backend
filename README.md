@@ -1,5 +1,7 @@
 # 🍬 Sweet Shop Management System (Backend)
 
+This backend application is running on render's free tier
+
 hosted on:
 https://sweetshop-frontend-pink.vercel.app/
 
